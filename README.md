@@ -1,4 +1,5 @@
 ##YOYOchat
+#注意：由于项目太大，代码量多，独自一人开发。可能有BUG。发现请提交到 2964714665@qq.com 及时修复更新
 
 ![Github Release](https://img.shields.io/badge/release-v1.0.0-orange%20color)
 ![Language](https://img.shields.io/badge/language-Python-239120)
