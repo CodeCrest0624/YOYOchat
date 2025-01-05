@@ -5,6 +5,9 @@
 ![Language](https://img.shields.io/badge/language-Python-239120)
 ![OS](https://img.shields.io/badge/OS-Windows-0078D4)
 
+#部署博客地址
+[https://blog.csdn.net/weixin_66825409/article/details/144847166?fromshare=blogdetail&sharetype=blogdetail&sharerId=144847166&sharerefer=PC&sharesource=weixin_66825409&sharefrom=from_link](https://blog.csdn.net/weixin_66825409/article/details/144847166?fromshare=blogdetail&sharetype=blogdetail&sharerId=144847166&sharerefer=PC&sharesource=weixin_66825409&sharefrom=from_link "部署——博客地址")
+
 ##第一个版本主要是以实现功能为主，未做太多的优化。如果该项目有望，将会进行进一步更新和开发、优化。
 #调查问卷链接
 [https://www.wjx.cn/vm/eJauUnI.aspx#](https://www.wjx.cn/vm/eJauUnI.aspx# "YOYOchat优化/更新 调查文件")
